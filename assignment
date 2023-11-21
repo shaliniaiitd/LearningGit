@@ -1,0 +1,10 @@
+1. Create git repository on git.epam.com/github.com
+2. Clone using SSH keys
+3. push few  commits in master branch
+4. Create new test branch and push 2 commits inside
+5) push one new commit in master branch
+6) Merge test to "master"
+7) Add 2 additional commits to test, 1 commit in master. Rebase "test" with new commits from "master"
+8) Add 2 additional commits in test. Cherry-pick first commit to master. Revert the second commit.
+
+As the result share the link to the repo with your mentor.
