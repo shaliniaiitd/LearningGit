@@ -15,6 +15,12 @@
 
 This is commit 1
 
+<<<<<<< HEAD
+=======
+This is commit 2
+
+THis is commit 3 in test branch
+>>>>>>> 3324fe8 (Third commit in file7)
 
 
 
